@@ -58,7 +58,6 @@ Your app must:
 Eager to get moving? Here are some good resources that you might want to refer back to.
 
 * **[Express JS](http://expressjs.com/)**
-* **[Sequelize](http://docs.sequelizejs.com/en/latest/)**
 * **[MongoDB](https://www.mongodb.org/)**
 * **[Getting Starts with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)**
 
