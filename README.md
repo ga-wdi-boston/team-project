@@ -3,6 +3,7 @@
 ## Required Reading
 
 1. [Group Guidelines](group-guidelines.md)
+1. [Working in Groups](group-work.md)
 1. [Group Roles](group-roles.md)
 
 ## Overview
@@ -215,5 +216,3 @@ Did you add a personal spin or creative element into your project submission? Is
 | 0 | App is very basic, and features very little creativity. |
 | 1 | App shows some originality and inventiveness. |
 | 2 | App is very novel because of its (a) approach, (b) UI, or (c) some other factor. |
-
-
