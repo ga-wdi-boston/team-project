@@ -127,3 +127,10 @@ Some other suggestions and best practices:
     someone else can pick it up and get it.
 -   **Write pseudocode before you write actual code.** Thinking through the
     logic of something helps.
+
+**Good luck and happy hacking!**
+
+## [License](LICENSE)
+
+Source code distributed under the MIT license. Text and other assets copyright
+General Assembly, Inc., all rights reserved.
