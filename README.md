@@ -34,26 +34,26 @@ Make it work, and make it awesome.
 
 Your app must:
 
--   **Use Mongo and Express** to build an API and a front-end that consumes it
+-   **Use Mongo and Express** to build an API.
 -   **Create an API using at least 2 related models**, one of which should be a
-    user
+    user.
 -   Include **all major CRUD functions** in a **RESTful API** for at least one
-    of those models
--   **Consume your own API** by making your front-end with HTML, Javascript, and
+    non-user model.
+-   **Consume your own API** by making a front-end with HTML, Javascript, and
     jQuery
--   **Add authentication to your API** to restrict access to appropriate users
--   **Craft thoughtful user stories together**, as a team
+-   **Use authentication in your API** to restrict access to appropriate users.
+-   **Craft thoughtful user stories together**, as a team.
 -   **Manage team contributions and collaboration** using a standard Git flow on
-    Github
--   Layout and style your front-end with **clean and well-formatted CSS**
--   **Deploy your application online** so it's publicly accessible
+    Github.
+-   Layout and style your front-end with **clean and well-formatted CSS**.
+-   **Deploy your application online** so it's publicly accessible.
 
 ## Necessary Deliverables
 
 -   A **working API, built by the whole team**, hosted somewhere on the
     internet.
--   A **front-end app that consumes your API**, hosted somewhere on the
-    internet.
+-   A **client app that consumes your API, built be the whole team**,
+ hosted somewhere on the internet.
 -   **At least two Git repositories** (front-end and back-end) **hosted on
     Github**, with frequent commits from _every_ team member dating back to the
     _very beginning_ of the project.
