@@ -12,7 +12,7 @@
 ## Overview
 
 You’ve already worked in small groups to accomplish various labs and exercises,
-but this time **we’re going to challenge you to work on a whole project with a
+but this time **we’re going to challenge you to work on a whole project in a
 small team.**
 
 Not only will you be asked to **exercise additional creativity** in designing
