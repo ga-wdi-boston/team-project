@@ -32,7 +32,7 @@ Make it work, and make it awesome.
 
 ## Technical Requirements
 
-Your app must:
+Your project must:
 
 -   **Use Mongo and Express** to build an API.
 -   **Create an API using at least 2 related models**, one of which should be a
@@ -47,6 +47,7 @@ Your app must:
     Github.
 -   Layout and style your front-end with **clean and well-formatted CSS**.
 -   **Deploy your application online** so it's publicly accessible.
+-   **Not** have any obvious user facing errors.
 
 ## Necessary Deliverables
 
