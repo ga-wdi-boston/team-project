@@ -43,8 +43,9 @@ they're completed.
 ## FileBucket
 
 Build a Dropbox-like app that allows users to upload files into a virtual file
-system. In addition to keeping track of file structure, this app should
-associate meta-data with each file, including things like:
+system. Ordinary users can only read/download a file where as Owners can do 
+anything to the files they own. In addition to keeping track of file structure,
+this app should associate meta-data with each file, including things like:
 
 -   date created/uploaded
 -   date modified
@@ -53,8 +54,6 @@ associate meta-data with each file, including things like:
 
 **Reach Goal**: Implement a simple permissions system for your CMS:
 
--   Ordinary users can only read/download a file.
--   Owners can do anything, and only owners can destroy or move a file.
 -   'collaborators' can be chosen; they have permission to read from and write
     to files.
 
