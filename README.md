@@ -24,7 +24,7 @@ on Rails, this project you'll be building something exciting with **Express and
 Mongo.**
 
 **This is meant to push you both technically and collaboratively.** It’s a lot
-harder to work in a team than to work by yourself, but that's most likely
+harder to work in a team than to work by yourself, but that's most likely what
 you’re going to find yourself doing in your first development job after WDI,
 and **it's important to learn how to work together.**
 
