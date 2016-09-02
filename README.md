@@ -21,7 +21,7 @@ architect, design, and collaboratively build an API of your own design.
 
 While your last project taught you how to get started with Ruby, SQL, and Ruby
 on Rails, this project you'll be building something exciting with **Express and
-Mongo.**
+MongoDB.**
 
 **This is meant to push you both technically and collaboratively.** It’s a lot
 harder to work in a team than to work by yourself, but that's most likely what
@@ -34,7 +34,7 @@ Make it work, and make it awesome.
 
 Your project must:
 
--   **Use Mongo and Express** to build an API.
+-   **Use MongoDB and Express** to build an API.
 -   **Create an API using at least 2 related models**, one of which should be a
     user.
 -   Include **all major CRUD functions** in a **RESTful API** for at least one
