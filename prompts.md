@@ -43,7 +43,7 @@ they're completed.
 ## FileBucket
 
 Build a Dropbox-like app that allows users to upload files into a virtual file
-system. Ordinary users can only read/download a file where as Owners can do 
+system. Ordinary users can only read/download a file where as Owners can do
 anything to the files they own. In addition to keeping track of file structure,
 this app should associate meta-data with each file, including things like:
 

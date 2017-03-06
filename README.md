@@ -88,7 +88,7 @@ Your consultants will give you a total score on your project as an aggregate
 across all feedback categories:
 
 | Score | Expectations                                           |
-|-------|--------------------------------------------------------|
+|:------|:-------------------------------------------------------|
 | **0** | _Does not meet expectations._                          |
 | **1** | _Meets expectations - good job!_                       |
 | **2** | _Exceeds expectations, you magnificent creature, you!_ |
