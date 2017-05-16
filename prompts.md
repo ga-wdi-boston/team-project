@@ -34,11 +34,11 @@ products by name.
 Make an app that can be used to create custom surveys (for instance, asking
 "what should we eat for lunch today?" or "On a scale of 0-5, how well did you
 understand what we just learned?") and collect the responses on a dashboard for
-that particular survey. Each live survey should be hosted at a unique,
-randomly-generated URL.
+that particular survey.
 
 **Reach Goal**: Make the dashboard real-time, so you can see answers pour in as
-they're completed.
+they're completed. Each live survey should be hosted at a unique,
+randomly-generated URL.
 
 ## FileBucket
 
