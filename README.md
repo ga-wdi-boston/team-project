@@ -82,6 +82,20 @@ Your project must:
     -   A link to the deployed back-end app.
     -   A link to the repo for your front-end.
 
+## Non-Technical Requirements
+
+You and your team will be evaluated by each other and the consultant team on:
+
+  - Planning
+  - Decision Making
+  - Workflow
+  - Source Control
+  - Team Contribution
+  - Pair Programming
+  - Communication
+
+_Note:_ Being a team player is the crux of this project. Failure to do so will result in the developer not being able to resubmit for this project.
+
 ## Overall Score
 
 Your consultants will give you a total score on your project as an aggregate
