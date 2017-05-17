@@ -7,7 +7,11 @@ All of you will be responsible for building this project together, and you shoul
 
 This means that in a group of three or four members, the group *should not* work on more than two tasks at a given time. You are expected to pair. Your job is not to produce code, but to produce a product! Even if a pair member on a front-end task doesn't feel able to contribute to code, they will contribute to code quality and idea generation.
 
-However, in addition to your shared responsibility to deliver the finished product, you may also each have accountability roles. Assuming these roles and responsibilities are *optional* and the assignment of roles is up to your group. A different division of accountability may work better for you. The suggested roles and duties are:
+However, in addition to your shared responsibility to deliver the finished product, you may also each have accountability roles. Assuming these roles and responsibilities are *optional* and the assignment of roles is up to your group. A different division of accountability may work better for you.
+ 
+**Note:** No one is responsible for their roles, but they are accountable for their roles.
+
+The suggested roles and duties are:
 
 - **Project Lead/Product Lead:** Accountable for team meetings, team progress, and time management. Also accountable for team decisions on product features, scope, and timeline.
 
