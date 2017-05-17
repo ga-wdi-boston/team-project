@@ -56,7 +56,7 @@ Your project must:
 -   A **client app that consumes your API, built be the whole team**,
  hosted somewhere on the internet.
 -   **At least two Git repositories** (front-end and back-end) **hosted on
-    Github**, with frequent commits from _every_ team member dating back to the
+    Github**, with frequent commits on _all_ repositories from _every_ team member dating back to the
     _very beginning_ of the project.
 -   The `README.md` file inside your _**front-end**_ repo should have:
 
