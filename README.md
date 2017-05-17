@@ -94,8 +94,6 @@ You and your team will be evaluated by each other and the consultant team on:
   - Pair Programming
   - Communication
 
-_Note:_ Being a team player is the crux of this project. Failure to do so will result in the developer not being able to resubmit for this project.
-
 ## Overall Score
 
 Your consultants will give you a total score on your project as an aggregate
@@ -112,6 +110,9 @@ But more important than your overall score is your feedback, particularly in
 individual categories - this will help you identify where to focus your efforts
 for future projects.
 
+**Note:**
+- Being a team player is the crux of this project. Failure to do so will result in the developer not being able to resubmit for this project.
+- For this project you can meet expectations as an individual even if your group does not, and vice versa.
 ## Getting Started
 
 Eager to get moving? Here are some good resources that you might want to refer
